@@ -31,9 +31,9 @@ Um sistema desenvolvido em Python para auxiliar comunidades em situações de ri
 
 ## 📫 Como me encontrar
 
-- Email: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- LinkedIn: [linkedin.com/in/seu-usuario]((https://www.linkedin.com/in/guilherme-macedo-b19979366/))
-- GitHub: [github.com/seu-usuario]https://github.com/GuilhermeMacedoMartins )
+- Email: guilhernemacedomartins@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/guilherme-macedo-b19979366/)
+- GitHub: (https://github.com/GuilhermeMacedoMartins )
 
 ---
 
