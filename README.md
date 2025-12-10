@@ -1,6 +1,6 @@
 👋 Olá! Eu sou **Guilherme Macedo Martins**
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas – 1º semestre
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – 2º semestre
 💻 Apaixonado por tecnologia, programação e soluções que impactam positivamente a sociedade
 🌱 Atualmente estudando Python, HTML, CSS, JavaScript, Banco de Dados, **Java** e **Quarkus**!
 🚀 Projetos em destaque
